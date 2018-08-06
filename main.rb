@@ -1,8 +1,8 @@
 require 'net/http'
 
 API_URL = 'https://rcrainfopreprod.epa.gov/rcrainfo/rest/api/v1/'.freeze
-API_ID = 'dada4410-8390-4dc3-9190-ce36b402a075'.freeze
-API_KEY = 'u5eR1wgLApXZUHLTICpf'.freeze
+API_ID = 'ID'.freeze
+API_KEY = 'KEY'.freeze
 
 # options of services for the user to choose
 LOOKUP_CHOICES = ['lookup/form-codes',
